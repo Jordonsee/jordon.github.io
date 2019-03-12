@@ -1,5 +1,7 @@
-## Welcome to GitHub Pages
-
+## Welcome to JORD WEBPAGE
+Its full of wierd shit cause imma beginner
+Im afraid to screw shit up really
+Feel free to guide me for any error if any thks
 You can use the [editor on GitHub](https://github.com/Jordonsee/jordon.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
